@@ -3,7 +3,7 @@
 var path	= require('path');
 var qiao	= require('qiao.util.all');
 qiao.coder	= require('../../lib/qiao.plugin.coder.js');
-qiao.config	= require('./_config.json');
+qiao.config	= require('./config.json');
 
 /**
  * gen
